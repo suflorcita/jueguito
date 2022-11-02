@@ -1,5 +1,0 @@
-conda create -n pygame_env python=3.7
-
-activate the environment: conda activate pygame_env 
-deactivate the environment: conda deactivate 
-
